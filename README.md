@@ -10,8 +10,9 @@ https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/in
 
 Use this store instead of Keiyoushi for these custom builds. When both stores
 contain the same package, Suwayomi selects the highest version and may replace
-a custom build with an upstream build. This store contains fourteen selected
-extensions; additional extensions can be added to future builds.
+a custom build with an upstream build. This store contains selected custom
+extensions; additional extensions can be added to future builds. The current
+selection is listed in index.json.
 
 Manga Ball, Kagane, and OniSaga include optional chapter deduplication and
 preferred scanlator settings. Enable them in source settings, then refresh
