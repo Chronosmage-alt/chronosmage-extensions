@@ -103,13 +103,13 @@
         "name": "MangaFire",
         "packageName": "eu.kanade.tachiyomi.extension.all.mangafire",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/apk/tachiyomi-all.mangafire-v1.6.39.apk",
+          "apkUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/apk/tachiyomi-all.mangafire-v1.6.40.apk",
           "iconUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/icons/all.mangafire.png",
-          "jarUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/jar/tachiyomi-all.mangafire-v1.6.39.jar"
+          "jarUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/jar/tachiyomi-all.mangafire-v1.6.40.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106039",
-        "versionName": "1.6.39",
+        "versionCode": "106040",
+        "versionName": "1.6.40",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -271,13 +271,13 @@
         "name": "Comix",
         "packageName": "eu.kanade.tachiyomi.extension.en.comix",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/apk/tachiyomi-en.comix-v1.6.64.apk",
+          "apkUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/apk/tachiyomi-en.comix-v1.6.65.apk",
           "iconUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/icons/en.comix.png",
-          "jarUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/jar/tachiyomi-en.comix-v1.6.64.jar"
+          "jarUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/jar/tachiyomi-en.comix-v1.6.65.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106064",
-        "versionName": "1.6.64",
+        "versionCode": "106065",
+        "versionName": "1.6.65",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -317,13 +317,13 @@
         "name": "MangaDot",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangadotnet",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/apk/tachiyomi-en.mangadotnet-v1.6.30.apk",
+          "apkUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/apk/tachiyomi-en.mangadotnet-v1.6.31.apk",
           "iconUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/icons/all.mangadotnet.png",
-          "jarUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/jar/tachiyomi-en.mangadotnet-v1.6.30.jar"
+          "jarUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/jar/tachiyomi-en.mangadotnet-v1.6.31.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106030",
-        "versionName": "1.6.30",
+        "versionCode": "106031",
+        "versionName": "1.6.31",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {

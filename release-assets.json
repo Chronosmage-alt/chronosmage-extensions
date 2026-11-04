@@ -41,12 +41,12 @@
   },
   "eu.kanade.tachiyomi.extension.all.mangafire": {
     "apk": {
-      "name": "tachiyomi-all.mangafire-v1.6.39.apk",
-      "sha256": "fd6b79a921dd988c56640a52b715b1f5e6e7a6fcfab80c7ed11b6772e247a702"
+      "name": "tachiyomi-all.mangafire-v1.6.40.apk",
+      "sha256": "9e7266f26ef039599a100ed637fbee55812fc6706944aa95ca2ce1f077804aef"
     },
     "jar": {
-      "name": "tachiyomi-all.mangafire-v1.6.39.jar",
-      "sha256": "4f94ca98f8c4c74d2414c1e057115fb8967774c023e3d6ae4b37925c17ab6b66"
+      "name": "tachiyomi-all.mangafire-v1.6.40.jar",
+      "sha256": "5aa75e529dfb844c3e57f36934c858974b3123805c6311dc0a8052cef276c786"
     }
   },
   "eu.kanade.tachiyomi.extension.all.myreadingmanga": {
@@ -121,12 +121,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.comix": {
     "apk": {
-      "name": "tachiyomi-en.comix-v1.6.64.apk",
-      "sha256": "90fdff427de6e5b78639751f173c74ca1aa406e01d2c2e99298d898e503ab83f"
+      "name": "tachiyomi-en.comix-v1.6.65.apk",
+      "sha256": "3afab173e6676b3c811ecb4c070047d55d4510fd41cc4ed6b5ae97ef7020ade6"
     },
     "jar": {
-      "name": "tachiyomi-en.comix-v1.6.64.jar",
-      "sha256": "399896430bd8d8353f495ab887d44e753919bc425966bace0a1ad0020965471f"
+      "name": "tachiyomi-en.comix-v1.6.65.jar",
+      "sha256": "ce1b1d88c0b9b68fffeac3a6e229a9172e7b9365f7f6a5f01e3628efd84ac6c0"
     }
   },
   "eu.kanade.tachiyomi.extension.en.mangacloud": {
@@ -141,12 +141,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.mangadotnet": {
     "apk": {
-      "name": "tachiyomi-en.mangadotnet-v1.6.30.apk",
-      "sha256": "b92e8ffbf495b2172a6581f1cdfb2c93827749e8d30239a8e2feeb25c70aac42"
+      "name": "tachiyomi-en.mangadotnet-v1.6.31.apk",
+      "sha256": "f41805f8b16309e81d9c044c155063af04d066daf322f60b517659fb03810ea3"
     },
     "jar": {
-      "name": "tachiyomi-en.mangadotnet-v1.6.30.jar",
-      "sha256": "4013d70214959157a681fb6ac217a3f717a1724ca77b6c0e34c9a48b13171386"
+      "name": "tachiyomi-en.mangadotnet-v1.6.31.jar",
+      "sha256": "22f93d4037c2beb4b55a26c0819005a12c222da1e70ac31368cecfb33d998323"
     }
   },
   "eu.kanade.tachiyomi.extension.en.mangafox": {
