@@ -82,13 +82,13 @@
         "name": "MangaDex",
         "packageName": "eu.kanade.tachiyomi.extension.all.mangadex",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/apk/tachiyomi-all.mangadex-v1.6.4.apk",
+          "apkUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/apk/tachiyomi-all.mangadex-v1.6.5.apk",
           "iconUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/icons/all.mangadex.png",
-          "jarUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/jar/tachiyomi-all.mangadex-v1.6.4.jar"
+          "jarUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/jar/tachiyomi-all.mangadex-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -145,13 +145,13 @@
         "name": "OniSaga",
         "packageName": "eu.kanade.tachiyomi.extension.all.onisaga",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/apk/tachiyomi-all.onisaga-v1.6.10.apk",
+          "apkUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/apk/tachiyomi-all.onisaga-v1.6.11.apk",
           "iconUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/icons/all.onisaga.png",
-          "jarUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/jar/tachiyomi-all.onisaga-v1.6.10.jar"
+          "jarUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/jar/tachiyomi-all.onisaga-v1.6.11.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106010",
-        "versionName": "1.6.10",
+        "versionCode": "106011",
+        "versionName": "1.6.11",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -380,13 +380,13 @@
         "name": "Weeb Central",
         "packageName": "eu.kanade.tachiyomi.extension.en.weebcentral",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/apk/tachiyomi-en.weebcentral-v1.6.28.apk",
+          "apkUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/apk/tachiyomi-en.weebcentral-v1.6.29.apk",
           "iconUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/icons/en.weebcentral.png",
-          "jarUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/jar/tachiyomi-en.weebcentral-v1.6.28.jar"
+          "jarUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/jar/tachiyomi-en.weebcentral-v1.6.29.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106028",
-        "versionName": "1.6.28",
+        "versionCode": "106029",
+        "versionName": "1.6.29",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {

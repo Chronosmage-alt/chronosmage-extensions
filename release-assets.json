@@ -31,12 +31,12 @@
   },
   "eu.kanade.tachiyomi.extension.all.mangadex": {
     "apk": {
-      "name": "tachiyomi-all.mangadex-v1.6.4.apk",
-      "sha256": "0f72c8fd5741c5e241f28a629d19a04e64b9f36d04b699520cfef634825c2de7"
+      "name": "tachiyomi-all.mangadex-v1.6.5.apk",
+      "sha256": "487e0b475532b446ebe7015d0f368ad687e22ec67f0822e398b8159ea50d3d48"
     },
     "jar": {
-      "name": "tachiyomi-all.mangadex-v1.6.4.jar",
-      "sha256": "3fef7f6494223dbda058331f4717f2ec87276707ee4560f0e15acbd769a5f7f2"
+      "name": "tachiyomi-all.mangadex-v1.6.5.jar",
+      "sha256": "96a19741a8e40ab3f48ec88e7494116331d39fa5a5df09ded6940065ad1073b4"
     }
   },
   "eu.kanade.tachiyomi.extension.all.mangafire": {
@@ -61,12 +61,12 @@
   },
   "eu.kanade.tachiyomi.extension.all.onisaga": {
     "apk": {
-      "name": "tachiyomi-all.onisaga-v1.6.10.apk",
-      "sha256": "f102a0c6266160d198bdcf58c4a0c5f19957f023b4f12e0ee33f8fa36104a472"
+      "name": "tachiyomi-all.onisaga-v1.6.11.apk",
+      "sha256": "833506b32e093ea7cdf16cf5815ba41acc713f703313308b69933c283052805a"
     },
     "jar": {
-      "name": "tachiyomi-all.onisaga-v1.6.10.jar",
-      "sha256": "2464d4a46fdf5b50adea0b228cff6c906cb3def91adf024492bba7685c4f0807"
+      "name": "tachiyomi-all.onisaga-v1.6.11.jar",
+      "sha256": "a77c0aad899ef2bcfc34d1bf4d7f47e7687ecd436273907f306f8c73b7577d86"
     }
   },
   "eu.kanade.tachiyomi.extension.all.yaoimangaonline": {
@@ -171,12 +171,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.weebcentral": {
     "apk": {
-      "name": "tachiyomi-en.weebcentral-v1.6.28.apk",
-      "sha256": "124001dccf5b39478334a1ff7c40ac1efe5c297db111951397d50c508c157e6e"
+      "name": "tachiyomi-en.weebcentral-v1.6.29.apk",
+      "sha256": "38a7f2d0a2421199c8789021db6285572fc1bd0c3632fa4442dae4b64a1bf398"
     },
     "jar": {
-      "name": "tachiyomi-en.weebcentral-v1.6.28.jar",
-      "sha256": "96e56c1900496db3810ee870e0ed20bfc9fa9694489def6541f23734c3074b3c"
+      "name": "tachiyomi-en.weebcentral-v1.6.29.jar",
+      "sha256": "20a7a22457ff4dc53dd716d06fdd93c9f14c9315e0e1a0868d1dfd5324b63a5a"
     }
   }
 }
