@@ -271,13 +271,13 @@
         "name": "Comix",
         "packageName": "eu.kanade.tachiyomi.extension.en.comix",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/apk/tachiyomi-en.comix-v1.6.66.apk",
+          "apkUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/apk/tachiyomi-en.comix-v1.6.67.apk",
           "iconUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/icons/en.comix.png",
-          "jarUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/jar/tachiyomi-en.comix-v1.6.66.jar"
+          "jarUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/jar/tachiyomi-en.comix-v1.6.67.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106066",
-        "versionName": "1.6.66",
+        "versionCode": "106067",
+        "versionName": "1.6.67",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -359,13 +359,13 @@
         "name": "Toonily",
         "packageName": "eu.kanade.tachiyomi.extension.en.toonily",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/apk/tachiyomi-en.toonily-v1.6.79.apk",
+          "apkUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/apk/tachiyomi-en.toonily-v1.6.80.apk",
           "iconUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/icons/en.toonily.png",
-          "jarUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/jar/tachiyomi-en.toonily-v1.6.79.jar"
+          "jarUrl": "https://raw.githubusercontent.com/Chronosmage-alt/chronosmage-extensions/main/jar/tachiyomi-en.toonily-v1.6.80.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106079",
-        "versionName": "1.6.79",
+        "versionCode": "106080",
+        "versionName": "1.6.80",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {

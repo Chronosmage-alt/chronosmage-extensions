@@ -121,12 +121,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.comix": {
     "apk": {
-      "name": "tachiyomi-en.comix-v1.6.66.apk",
-      "sha256": "2f1d5a60c9eec34b23715cc175b60810b2a19c5dd99053305cd756975596b42a"
+      "name": "tachiyomi-en.comix-v1.6.67.apk",
+      "sha256": "9b1e089e23cccdb526d3fa83e158ca12740493dbd41c5af8248e9c9db5f5594f"
     },
     "jar": {
-      "name": "tachiyomi-en.comix-v1.6.66.jar",
-      "sha256": "20c4e67e424047961bee0b13d76a74b84d0ac3a3033e42a174ce3b8b6d02eb61"
+      "name": "tachiyomi-en.comix-v1.6.67.jar",
+      "sha256": "c64f112c65b24f214ea0df019578f29b58b801c19ece6d2fcadd82892b0718ff"
     }
   },
   "eu.kanade.tachiyomi.extension.en.mangacloud": {
@@ -161,12 +161,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.toonily": {
     "apk": {
-      "name": "tachiyomi-en.toonily-v1.6.79.apk",
-      "sha256": "d8095153b7eb966626af0f27c1dca7e3fa1bc2b9f1d2002b4693df3b38dd6745"
+      "name": "tachiyomi-en.toonily-v1.6.80.apk",
+      "sha256": "a55043e8e665807f568a90c8501cf0b98d22f1d08f7f97a7d88c20594eff5360"
     },
     "jar": {
-      "name": "tachiyomi-en.toonily-v1.6.79.jar",
-      "sha256": "32091f3d53be13548eac45f8f10333ca0a15d37fcdbe885236b724f60ec64de5"
+      "name": "tachiyomi-en.toonily-v1.6.80.jar",
+      "sha256": "33befa66a9187927acd2695d5aca1aff18e5987308c0733b6434e9a8ecba98ed"
     }
   },
   "eu.kanade.tachiyomi.extension.en.weebcentral": {
